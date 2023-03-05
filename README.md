@@ -9,3 +9,5 @@ show up on the scatterplot. This can save time during their search for housing b
 They can adjust the maximum amount of openings they'd like to see on the graph at a time using the slider and they can select what their party size is (the number of people staying in the AirBnb) by selecting one the possible options in the radio buttons.
 
 Link to Shiny App:  https://maansi.shinyapps.io/ps6-webapp/ 
+
+*I spent about 9 hours on this assignment. 
