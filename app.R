@@ -44,7 +44,7 @@ server <- function(input, output) {
          Information is given about pricings, number of bedrooms/bathrooms, ratings, location, and more.", "<br />", "<strong>", 
          "In this app, users may select how many people they are traveling with in order to find AirBnbs that can fit
          everyone in their party, and they can view which areas to search the most in according to how many AirBnb openings
-         show up on the scatterplot and save time during their search for housing. They can also the maximum amount of 
+         show up on the scatterplot and save time during their search for housing. They can adjust the maximum amount of 
          openings they'd like to see on the graph at a time.", "</strong>", "<br />",  
          "<em>", "View the following two tabs for more information on where to stay according to your housing needs.", "</em>")
   })
