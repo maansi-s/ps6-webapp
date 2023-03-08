@@ -14,10 +14,9 @@ ui <- fluidPage(
                       h1("Which locations have more Airbnbs depending on party size?"),
                       p(strong("The dataset used for this project is intended to help travelers book their ideal AirBnb when visiting the greater Seattle area.
                         Information is given about pricings, number of bedrooms/bathrooms, ratings, location, and more.")),
-                      p("In this app, users may select how many people they are traveling with in order to find AirBnbs that can fit
-                      everyone in their party, and they can view which areas to search the most in according to how many AirBnb openings
-                      show up on the scatterplot and save time during their search for housing. They can adjust the maximum amount of 
-                      openings they'd like to see on the graph at a time."),
+                      p("In this app, users may make selections regarding how many people they are traveling with, what type of room they'd like,
+                        in what color they'd like to view the scatterplot, and how many options
+                        they'd like to view at a time and save time during their search for housing."),
                       p(em("View the following two tabs for more information on where to 
                            stay according to your housing needs.")
                     ),
