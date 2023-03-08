@@ -6,7 +6,9 @@ In this app, users may select how many people they are traveling with in order t
 everyone in their party, and they can view which areas to search the most in according to how many AirBnb openings
 show up on the scatterplot. This can save time during their search for housing because users will know which cities to spend the mosting time AirBnb-searching in. 
 
-They can adjust the maximum amount of openings they'd like to see on the graph at a time using the slider and they can select what their party size is (the number of people staying in the AirBnb) by selecting one the possible options in the radio buttons.
+On the scatterplot tab, users can adjust the color of the dots on the scatter plot using one set of the radio buttions and they can select what their party size is (the number of people staying in the AirBnb) by selecting one the possible options in the other set of radio buttons.
+
+On the table tab, users can view possible places to stay at in table-mode. They can adjust the type of Airbnb's they'd like to see by selecting a room type in the radio buttons, and they can adjust the maximum amount of Airbnb's they'd like to view at a time by using the slider.
 
 Link to Shiny App:  https://maansi.shinyapps.io/ps6-webapp/ 
 
